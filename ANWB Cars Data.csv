@@ -1,0 +1,270 @@
+Manufacture,Model,Price,Benzine,Chassis,Status
+Kia,Ceed Sportswagon,379,Benzine,Stationwagen,new
+Ford,Puma,359,Benzine,SUV,new
+Skoda,Kamiq,389,Benzine,SUV,new
+Nissan,Micra,279,Benzine,Hatchback,occasion
+Fiat,500,279,Benzine,Hatchback,occasion
+Suzuki,Ignis,279,Benzine,Hatchback,new
+Fiat,500,279,Benzine,Hatchback,new
+Mitsubishi,Space Star,279,Benzine,Hatchback,new
+Toyota,AYGO X,284,Benzine,SUV,new
+Hyundai,i10,289,Benzine,Hatchback,new
+Renault,Clio,299,Benzine,Hatchback,occasion
+Ford,Fiesta,299,Benzine,Hatchback,occasion
+Fiat,Panda,299,Benzine,Hatchback,new
+Kia,Stonic,319,Benzine,SUV,occasion
+Nissan,Leaf,319,Elektriciteit,Hatchback,occasion
+Dacia,Sandero,324,Benzine,Hatchback,new
+Fiat,500C,324,Benzine,Cabriolet,new
+Mazda,2,334,Benzine,Hatchback,new
+Opel,Corsa,339,Benzine,Hatchback,occasion
+Citroen,C3,339,Benzine,Hatchback,new
+Mitsubishi,Colt,339,Benzine,Hatchback,new
+Renault,Twingo,339,Elektriciteit,Hatchback,new
+Hyundai,Ioniq,344,Elektriciteit,Hatchback,occasion
+Hyundai,i20,344,Benzine,Hatchback,new
+Volkswagen,Polo,349,Benzine,Hatchback,occasion
+Skoda,Fabia,349,Benzine,Hatchback,new
+Renault,Clio,354,Benzine,Hatchback,new
+Opel,Astra,359,Benzine,Hatchback,occasion
+Peugeot,208,359,Benzine,Hatchback,new
+Dacia,Sandero Stepway,359,Benzine,Hatchback,new
+Fiat,500e,359,Elektriciteit,Hatchback,new
+Seat,Ibiza,359,Benzine,Hatchback,new
+Toyota,Yaris,364,Benzine,Hatchback,new
+Hyundai,i30,369,Benzine,Hatchback,occasion
+Ford,Puma,369,Hybride benzine,SUV,occasion
+Peugeot,208,369,Benzine,Hatchback,occasion
+Opel,Corsa,369,Benzine,Hatchback,new
+Toyota,Yaris,374,Hybride benzine,Hatchback,new
+Kia,Rio,379,Benzine,Hatchback,occasion
+Hyundai,i20,379,Benzine,Hatchback,new
+Hyundai,KONA,384,Elektriciteit,SUV,occasion
+Volkswagen,Golf,384,Elektriciteit,Hatchback,occasion
+Suzuki,Vitara,384,Benzine,SUV,new
+Renault,Clio,384,Hybride benzine,Hatchback,new
+Mazda,2,389,Hybride benzine,Hatchback,new
+Ford,Focus,399,Benzine,Hatchback,occasion
+Dacia,Jogger,399,Benzine,Stationwagen,new
+Kia,Stonic,399,Benzine,SUV,new
+Fiat,500e,399,Elektriciteit,Cabriolet,new
+BYD,Dolphin,399,Elektriciteit,Hatchback,new
+Volkswagen,Polo,399,Benzine,Hatchback,new
+Peugeot,208,404,Benzine,Hatchback,new
+Ford,Puma,409,Benzine,SUV,occasion
+Hyundai,i30,409,Benzine,Hatchback,new
+Renault,Captur,414,Benzine,SUV,new
+Seat,Arona,414,Benzine,SUV,new
+Opel,Crossland,419,Benzine,SUV,occasion
+Opel,Mokka-e,419,Elektriciteit,SUV,occasion
+Citroen,C3 Aircross,419,Benzine,SUV,new
+Mitsubishi,Colt,419,Hybride benzine,Hatchback,new
+Dacia,Duster,419,Benzine,SUV,new
+Audi,A1 Sportback,419,Benzine,Hatchback,new
+Nissan,Juke,419,Benzine,SUV,new
+Suzuki,S-Cross,419,Benzine,SUV,new
+Toyota,Yaris Cross,419,Benzine,SUV,new
+Opel,Crossland,424,Benzine,SUV,new
+Audi,A1 Sportback,429,Benzine,Hatchback,occasion
+Volkswagen,T-Cross,429,Benzine,SUV,occasion
+Seat,Leon Sportstourer,429,Benzine,Stationwagen,occasion
+Ford,EcoSport,429,Benzine,SUV,occasion
+Opel,Crossland X,429,Benzine,SUV,occasion
+Mini,Cooper,429,Benzine,Hatchback,new
+Skoda,Scala,429,Benzine,Hatchback,new
+Opel,Mokka,434,Benzine,SUV,new
+Kia,Niro,439,Elektriciteit,Hatchback,occasion
+Citroen,C4,439,Benzine,Hatchback,new
+Suzuki,Vitara,439,Hybride benzine,SUV,new
+Opel,Corsa Electric,439,Elektriciteit,Hatchback,new
+Hyundai,i30 Wagon,444,Benzine,Stationwagen,new
+Citroen,C4 X,444,Benzine,Sedan,new
+MG,4,444,Elektriciteit,Hatchback,new
+Toyota,Yaris Cross,444,Hybride benzine,SUV,new
+Volkswagen,Passat,449,Benzine,Sedan,occasion
+Opel,Grandland X,449,Benzine,SUV,occasion
+Toyota,Corolla,449,Hybride benzine,Hatchback,new
+Ford,Focus,449,Benzine,Hatchback,new
+Peugeot,e-208,454,Elektriciteit,Hatchback,new
+Nissan,QASHQAI,459,Benzine,SUV,occasion
+Opel,Astra,459,Benzine,Hatchback,new
+Opel,Mokka Electric,459,Elektriciteit,SUV,new
+Honda,Jazz,459,Hybride benzine,Hatchback,new
+Mazda,3 sedan,459,Benzine,Sedan,new
+Seat,Leon,459,Benzine,Hatchback,new
+Fiat,600e,459,Elektriciteit,SUV,new
+Renault,Captur,459,Hybride benzine,SUV,new
+Mitsubishi,ASX,459,Benzine,SUV,new
+Mazda,3 hatchback,464,Benzine,Hatchback,new
+Peugeot,508,469,Benzine,Hatchback,occasion
+MG,ZS,469,Elektriciteit,SUV,new
+Nissan,Leaf,469,Elektriciteit,Hatchback,new
+Nissan,Juke,469,Hybride benzine,SUV,new
+Dacia,Jogger,469,Hybride benzine,Stationwagen,new
+Ford,Focus Wagon,469,Benzine,Stationwagen,new
+Suzuki,S-Cross,474,Hybride benzine,SUV,new
+Seat,Leon Sportstourer,474,Benzine,Stationwagen,new
+Volkswagen,Taigo,474,Benzine,SUV,new
+Ford,Mondeo,479,Hybride benzine,Sedan,occasion
+Seat,Ateca,479,Benzine,SUV,new
+Mazda,MX-30,479,Elektriciteit,SUV,new
+Peugeot,308,484,Benzine,Hatchback,new
+Opel,Astra Sports Tourer,484,Benzine,Stationwagen,new
+Hyundai,KONA,484,Hybride benzine,SUV,new
+Toyota,Corolla Touring Sports,484,Hybride benzine,Stationwagen,new
+MG,5,484,Elektriciteit,Stationwagen,new
+Mitsubishi,ASX,484,Hybride benzine,SUV,new
+Jeep,Avenger,489,Elektriciteit,SUV,new
+Tesla,Model 3,494,Elektriciteit,Sedan,occasion
+Volkswagen,T-Cross,494,Benzine,SUV,new
+Opel,Astra Electric,499,Elektriciteit,Hatchback,new
+Volvo,EX30,499,Elektriciteit,SUV,new
+Renault,Megane E-TECH,499,Elektriciteit,Hatchback,new
+Audi,A3 Limousine,504,Benzine,Sedan,new
+Audi,A3 Sportback,504,Benzine,Hatchback,new
+Peugeot,e-2008,504,Elektriciteit,SUV,new
+Audi,Q2,509,Benzine,SUV,new
+BYD,ATTO 3,509,Elektriciteit,SUV,new
+Volkswagen,T-Roc,509,Benzine,SUV,new
+Ford,Kuga,509,PHEV benzine,SUV,new
+Abarth,500e,509,Elektriciteit,Hatchback,new
+Peugeot,308 SW,509,Benzine,Stationwagen,new
+Jeep,Renegade,509,Benzine,SUV,new
+Renault,Arkana,509,Hybride benzine,SUV,new
+Hyundai,KONA Electric,514,Elektriciteit,SUV,new
+Audi,A3 Sportback,514,Benzine,Hatchback,new
+Mazda,MX-5 Roadster,514,Benzine,Cabriolet,new
+BMW,1 Serie,514,Benzine,Hatchback,new
+Kia,Niro EV,519,Elektriciteit,Hatchback,new
+DS,3,519,Elektriciteit,SUV,new
+Kia,Ceed Sportswagon,524,PHEV benzine,Stationwagen,new
+Abarth,500e Cabrio,524,Elektriciteit,Cabriolet,new
+Skoda,Karoq,524,Benzine,SUV,new
+Renault,Grand Scénic,529,Benzine,MPV,occasion
+Mercedes-Benz,B-Klasse,529,Benzine,MPV,occasion
+Renault,Austral,534,Benzine,SUV,new
+Volkswagen,Golf,539,Benzine,Hatchback,new
+Tesla,Model S,544,Elektriciteit,Hatchback,occasion
+Opel,Grandland,544,Benzine,SUV,new
+Mazda,MX-30 PHEV,544,PHEV benzine,SUV,new
+Mitsubishi,ASX,544,PHEV benzine,SUV,new
+Mazda,6 Sportbreak,549,Benzine,Stationwagen,occasion
+Mitsubishi,Eclipse Cross,549,PHEV benzine,SUV,new
+Cupra,Born,549,Elektriciteit,Hatchback,new
+DS,4,549,Benzine,Hatchback,new
+Mini,Cooper S,549,Benzine,Hatchback,new
+Mercedes-Benz,CLA,559,Benzine,Sedan,occasion
+Opel,Astra,559,PHEV benzine,Hatchback,new
+BMW,2 Serie Gran Coupé,559,Benzine,Sedan,new
+Volkswagen,Golf Variant,569,Benzine,Stationwagen,new
+Kia,EV6,569,Elektriciteit,SUV,new
+Mazda,CX-5,569,Benzine,SUV,new
+Hyundai,Tucson,574,Benzine,SUV,new
+Hyundai,IONIQ 6,574,Elektriciteit,Sedan,new
+Lynk & Co,01,574,PHEV benzine,SUV,new
+BMW,3 Serie Sedan,579,Benzine,Sedan,occasion
+Volvo,S60,579,Benzine,Sedan,occasion
+Opel,Astra Sports Tourer,579,PHEV benzine,Stationwagen,new
+Kia,Niro,579,PHEV benzine,Hatchback,new
+Mercedes-Benz,A-Klasse Limousine,579,Benzine,Sedan,new
+Peugeot,e-308,584,Elektriciteit,Hatchback,new
+Renault,Austral,584,Hybride benzine,SUV,new
+Mercedes-Benz,A-klasse hatchback,584,Benzine,Hatchback,new
+Mini,Clubman,589,Benzine,Stationwagen,new
+Peugeot,3008,589,Benzine,SUV,new
+Toyota,Prius,589,PHEV benzine,Hatchback,new
+Mercedes-Benz,A-klasse,599,Benzine,Hatchback,occasion
+Volvo,V60,599,Benzine,Stationwagen,occasion
+Peugeot,508 SW,599,Benzine,Stationwagen,occasion
+Hyundai,Tucson,599,Hybride benzine,SUV,occasion
+Hyundai,Tucson,599,Hybride benzine,SUV,new
+Peugeot,e-308 SW,599,Elektriciteit,Stationwagen,new
+Toyota,bZ4X,599,Elektriciteit,SUV,new
+DS,4,599,PHEV benzine,Hatchback,new
+Skoda,Enyaq,599,Elektriciteit,SUV,new
+Peugeot,408,599,Benzine,Hatchback,new
+Hyundai,Tucson,604,Benzine,SUV,occasion
+BMW,2 Serie Active Tourer,604,Benzine,MPV,new
+Peugeot,308 SW,609,PHEV benzine,Stationwagen,new
+Citroen,C5 Aircross,614,PHEV benzine,SUV,new
+Peugeot,308,614,PHEV benzine,Hatchback,new
+Seat,Tarraco,619,Benzine,SUV,occasion
+Opel,Grandland,619,PHEV benzine,SUV,new
+Jeep,Renegade,619,PHEV benzine,SUV,new
+Jeep,Compass,619,Benzine,SUV,new
+Peugeot,5008,619,Benzine,SUV,new
+Seat,Tarraco,624,Benzine,SUV,new
+Mercedes-Benz,A-Klasse Limousine,624,PHEV benzine,Sedan,new
+Zeekr,X,629,Elektriciteit,SUV,new
+Hyundai,Tucson,629,PHEV benzine,SUV,new
+Mercedes-Benz,A-klasse hatchback,629,PHEV benzine,Hatchback,new
+Volkswagen,Tiguan,629,Benzine,SUV,new
+Skoda,Enyaq Coupe,629,Elektriciteit,SUV,new
+Hyundai,IONIQ 5,634,Elektriciteit,SUV,new
+Kia,Sportage,639,Hybride benzine,SUV,occasion
+Nissan,QASHQAI Hybrid,639,Hybride benzine,SUV,new
+Mercedes-Benz,EQA,639,Elektriciteit,SUV,new
+Cupra,Leon,639,PHEV benzine,Hatchback,new
+Mercedes-Benz,B-Klasse,639,Benzine,MPV,new
+Volkswagen,Tiguan,649,Benzine,SUV,occasion
+Ford,Mustang Mach-E,649,Elektriciteit,SUV,new
+Mazda,6,649,Benzine,Sedan,new
+Nissan,Ariya,649,Elektriciteit,SUV,new
+Alfa Romeo,Tonale,649,Benzine,SUV,new
+Volvo,XC40 Recharge,649,Elektriciteit,SUV,new
+Mercedes-Benz,B-Klasse,649,PHEV benzine,MPV,new
+Mercedes-Benz,CLA Coupe,649,Benzine,Sedan,new
+Volvo,XC40,659,Benzine,SUV,occasion
+Lexus,UX 250h,659,Hybride benzine,SUV,new
+Kia,Sportage,659,PHEV benzine,SUV,new
+Peugeot,408,659,PHEV benzine,Hatchback,new
+Mercedes-Benz,EQB,664,Elektriciteit,SUV,new
+Cupra,Leon Sportstourer,664,PHEV benzine,Stationwagen,new
+Jeep,Compass,669,PHEV benzine,SUV,new
+Volvo,C40 Recharge,669,Elektriciteit,SUV,new
+Mini,Countryman,669,PHEV benzine,Hatchback,new
+Mercedes-Benz,CLA Coupe,669,PHEV benzine,Sedan,new
+Peugeot,3008,669,PHEV benzine,SUV,new
+Cupra,Formentor,669,PHEV benzine,SUV,new
+MG,Marvel R,669,Elektriciteit,SUV,new
+Toyota,RAV4,679,Hybride benzine,SUV,new
+Mazda,6 Sportbreak,684,Benzine,Stationwagen,new
+BMW,X1,684,Benzine,SUV,new
+Citroen,C5 X,689,PHEV benzine,Hatchback,new
+BMW,2 Serie Active Tourer,689,PHEV benzine,MPV,new
+Mercedes-Benz,CLA Shooting Brake,689,Benzine,Stationwagen,new
+Polestar,2,699,Elektriciteit,Hatchback,new
+Peugeot,5008,699,Benzine,SUV,new
+Xpeng,P7,699,Elektriciteit,Sedan,new
+Audi,Q4 e-tron,709,Elektriciteit,SUV,new
+BMW,iX1,714,Elektriciteit,SUV,new
+Mercedes-Benz,CLA Shooting Brake,719,PHEV benzine,Stationwagen,new
+DS,7,724,PHEV benzine,SUV,new
+BMW,X1,729,PHEV benzine,SUV,new
+BMW,i4,729,Elektriciteit,Hatchback,new
+Nissan,X-Trail Hybrid,729,Hybride benzine,SUV,new
+Mazda,CX-60,734,PHEV benzine,SUV,new
+VinFast,VF 8,749,Elektriciteit,SUV,new
+BMW,3 Serie Touring,754,PHEV benzine,Stationwagen,new
+BMW,3 Serie Touring,759,Benzine,Stationwagen,new
+Peugeot,508,759,PHEV benzine,Hatchback,new
+Subaru,Solterra,769,Elektriciteit,SUV,new
+Toyota,RAV4,774,PHEV benzine,SUV,new
+Peugeot,508 SW,779,PHEV benzine,Stationwagen,new
+Volvo,V60,789,Benzine,Stationwagen,new
+Xpeng,G9,799,Elektriciteit,SUV,new
+Zeekr,001,829,Elektriciteit,Stationwagen,new
+Volvo,V60,844,PHEV benzine,Stationwagen,new
+NIO,ET5,859,Elektriciteit,Sedan,new
+Kia,EV9,899,Elektriciteit,SUV,new
+BMW,ix3,899,Elektriciteit,SUV,new
+BMW,X3,899,PHEV benzine,SUV,new
+NIO,ET5 Touring,899,Elektriciteit,Stationwagen,new
+Lexus,ES 300h,909,Hybride benzine,Sedan,new
+NIO,EL6,919,Elektriciteit,SUV,new
+Alfa Romeo,Giulia,944,Benzine,Sedan,new
+BMW,i5,954,Elektriciteit,Sedan,new
+Land Rover,Range Rover Evoque,969,PHEV benzine,SUV,new
+Volkswagen,ID. Buzz,1009,Elektriciteit,MPV,new
+Volvo,XC60,1019,PHEV benzine,SUV,new
+Alfa Romeo,Stelvio,1129,Benzine,SUV,new
